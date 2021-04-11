@@ -1,2 +1,2 @@
 # ElectroPuro
-All files and instructions for creating Electronic Puro form Changed :3
+All files and instructions for creating Electronic Puro from Changed :3
