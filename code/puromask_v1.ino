@@ -92,7 +92,7 @@ void loop() {
 
   switch(f) {    //checking which face should be displayed
     case 0:
-      matrix.clear(); //idle atate - nothing is displayed, matrix is cleared
+      matrix.clear(); //idle state - nothing is displayed, matrix is cleared
       matrix.writeDisplay();
       break;
 
