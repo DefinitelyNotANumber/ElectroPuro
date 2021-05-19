@@ -1,0 +1,33 @@
+[These links are only my sources. If you know better, go for it]
+
+
+Component list:
+
+- Arduino Nano R3 board
+
+Original - https://store.arduino.cc/arduino-nano
+Chinese one - https://aliexpress.com/item/1005001540279617.html
+Nano is small so I'm using it here, but if you want, you can also use other ones
+
+- 56 pcs. white 3mm LED
+
+https://www.tme.eu/details/fyl-3014uwc1a/diody-led-tht-3mm/foryard/
+Just... Don't use the Chinese ones
+
+- Microswitch
+
+https://www.tme.eu/details/1-1825910-4/mikroprzelaczniki-tact/te-connectivity/
+
+- HT16K33 I2c 16x8 LED matrix controller
+
+https://abc-rc.pl/product-pol-7675-Sterownik-LED-16x8-HT16K33-sterowanie-128-diodami-LED-przez-I2C.html
+It's the cheapest one I found
+
+- Some cables
+
+- Mini-USB to USB cable
+
+- 3D printed mask
+
+I'll explain which model to use etc. later
+If you do not own a 3d printer, there are companies out there that could print it for you
