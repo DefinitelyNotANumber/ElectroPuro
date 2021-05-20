@@ -79,7 +79,7 @@ void loop() {
     case LOW:
       if(s == 0) {
         f = f + 1;
-        s = 0;
+        s = 1;
       }
       break;
   }
